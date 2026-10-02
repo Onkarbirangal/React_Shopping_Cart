@@ -8,7 +8,7 @@ This project demonstrates the implementation of a product shopping experience wi
 
 ## 🌐 Live Demo
 
-👉 https://react-shopping-cart-pi-lar.vercel.app/
+👉 https://react-shopping-cart-pi-liart.vercel.app/
 
 ---
 
